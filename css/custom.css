@@ -1,0 +1,149 @@
+
+.navbar {
+    position: relative;
+ }
+
+ 
+.bg-dark {
+	margin-top: -1px;
+
+
+}
+
+.navbar-collapse ul li:hover {
+	background-color: blue;
+	font-size: 105%;
+	font-family:monospace;
+
+}
+
+
+.upper {
+	    background-color: #f1f1f1;
+}
+
+
+
+
+.jumbotron {
+	text-align: center;
+	padding-bottom: 211px;
+    margin-bottom: 30px;
+    background-image: url('../images/wallpaper.jpg');
+
+}
+
+.search-button {
+	padding-left: 466px;
+    padding-top: 34px;
+}
+
+
+.collapse {padding-left: 84px;
+
+
+}
+
+
+}
+
+.review {text-align: center;
+
+
+}
+
+.textalign {text-align: left;
+
+padding-bottom: 20px;
+}
+
+.mountainex{
+
+	padding-left: 112px;
+}
+
+.mybackground {background-color: #f1f1f1;
+	margin-top: -32px;
+	padding-top: 30px;
+
+
+}
+
+.myfooter {background-color: #004f92;
+	color: #f4f5f0;
+
+	margin-top: -15px;
+	padding-top: 20px;
+	background-image: url('../images/wallpaper2.jpg');
+	font-family: 'Hind', sans-serif;
+
+
+}
+
+.bg-dark {
+
+	background-color: #004f92!important;
+}
+
+.develop {
+
+	padding-left: 300px;
+
+
+
+}
+
+
+.jum {
+	padding-bottom: 1px;
+}
+
+.submit {color:background-color: #f7991b;
+
+}
+
+.search {text-align: center;
+
+
+}
+
+.btn-secondary {background-color: #f7991b;}
+
+
+.header {
+	    margin-bottom: 160px;
+
+	}
+
+.ul-class {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul.horizontal-list li {
+	display: inline;
+
+}
+
+.logo {
+	margin-top: -155px;
+	margin-right: 188px; 
+}
+
+.contact-info {
+	    padding-top: 36px;
+
+
+}
+
+.hello {
+	padding-bottom: 1px;
+    padding-top: 5px;
+}
+
+.end-footer {
+	margin-bottom: -40px;
+
+}
+
